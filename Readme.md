@@ -1,5 +1,5 @@
-# Ejercicios de C#  
-En este repositorio muestro ejemplos básicos de C# 
+# Practica Nro. 1 - C#  
+En ejercicios resueltos  básicos de C# 
 
 ## 🛠️ Construido con :
 
